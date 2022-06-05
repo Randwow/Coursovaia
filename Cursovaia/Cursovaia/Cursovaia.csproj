@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{96B581BF-EA35-4CEF-90AE-B6F24232C3FF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Cursovaia</RootNamespace>
+    <AssemblyName>Cursovaia</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper.cs" />
+    <Compile Include="ProspectMemory.cs" />
+    <Compile Include="SwimmingPool.cs" />
+    <Compile Include="Memento.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CheckData.cs" />
+    <Compile Include="ConcreteBuilderHouse.cs" />
+    <Compile Include="Director.cs" />
+    <Compile Include="House.cs" />
+    <Compile Include="HouseBuilder.cs" />
+    <Compile Include="HouseWithMoreFunc.cs" />
+    <Compile Include="ProjectFacade.cs" />
+    <Compile Include="ReadData.cs" />
+    <Compile Include="HouseWithVeranda.cs" />
+    <Compile Include="SmartHouse.cs" />
+    <Compile Include="ToExternalDOC.cs" />
+    <Compile Include="ToExternalTXT.cs" />
+    <Compile Include="UploadDataToFiles.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

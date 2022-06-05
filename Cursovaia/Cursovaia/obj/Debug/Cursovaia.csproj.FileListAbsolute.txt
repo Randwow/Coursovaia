@@ -1,0 +1,11 @@
+/Users/nikitamakeev/Desktop/Cursovaia/Cursovaia/bin/Debug/Cursovaia.exe
+/Users/nikitamakeev/Desktop/Cursovaia/Cursovaia/bin/Debug/Cursovaia.pdb
+/Users/nikitamakeev/Desktop/Cursovaia/Cursovaia/obj/Debug/Cursovaia.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/Cursovaia/Cursovaia/obj/Debug/Cursovaia.exe
+/Users/nikitamakeev/Desktop/Cursovaia/Cursovaia/obj/Debug/Cursovaia.pdb
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\bin\Debug\Cursovaia.exe
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\bin\Debug\Cursovaia.pdb
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\obj\Debug\Cursovaia.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\obj\Debug\Cursovaia.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\obj\Debug\Cursovaia.exe
+\\Mac\Home\Desktop\Cursovaia\Cursovaia\obj\Debug\Cursovaia.pdb

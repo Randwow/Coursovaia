@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{96B581BF-EA35-4CEF-90AE-B6F24232C3FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cursovaia/ToExternalTXT.cs">
+    <Files>
+      <File FileName="Cursovaia/Program.cs" Line="32" Column="1" />
+      <File FileName="Cursovaia/CheckData.cs" Line="5" Column="20" />
+      <File FileName="Cursovaia/ConcreteBuilderHouse.cs" Line="47" Column="1" />
+      <File FileName="Cursovaia/Director.cs" Line="5" Column="20" />
+      <File FileName="Cursovaia/House.cs" Line="40" Column="2" />
+      <File FileName="Cursovaia/HouseBuilder.cs" Line="32" Column="1" />
+      <File FileName="Cursovaia/HouseWithMoreFunc.cs" Line="18" Column="2" />
+      <File FileName="Cursovaia/ProjectFacade.cs" Line="41" Column="1" />
+      <File FileName="Cursovaia/ReadData.cs" Line="5" Column="20" />
+      <File FileName="Cursovaia/SmartHouse.cs" Line="29" Column="1" />
+      <File FileName="Cursovaia/ToExternalTXT.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cursovaia" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Cursovaia PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

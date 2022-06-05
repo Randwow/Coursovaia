@@ -1,0 +1,12 @@
+Name of house Base house with smart functionality with swimming pool 
+Number of flourse: 2
+Number of Windows: 8
+Section width: 450
+Section lenght: 450
+Total section area: 202500
+Total section perimetr: 1800
+House width: 300
+House lenght: 300
+Total house area: 90000
+The material from which the house will be made is: Stone house
+House Price: 175000
